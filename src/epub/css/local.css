@@ -10,6 +10,16 @@ footer{
 	text-align: right;
 }
 
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+}
+
+.signature,
+[epub|type~="z3998:recipient"]{
+	font-variant: small-caps;
+}
+
 [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
 	text-align: left;
@@ -22,8 +32,7 @@ footer{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:verse"] p + p,
-[epub|type~="z3998:song"] p + p{
+[epub|type~="z3998:verse"] p + p{
 	margin-top: 1em;
 }
 
