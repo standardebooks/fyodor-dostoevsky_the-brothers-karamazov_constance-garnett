@@ -16,8 +16,11 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-.signature,
-[epub|type~="z3998:recipient"]{
+[epub|type~="subchapter"]{
+	margin-top: 3em;
+}
+
+.signature{
 	font-variant: small-caps;
 }
 
