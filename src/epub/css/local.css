@@ -11,11 +11,6 @@ footer{
 	text-align: right;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 [epub|type~="subchapter"]{
 	margin-top: 3em;
 }
