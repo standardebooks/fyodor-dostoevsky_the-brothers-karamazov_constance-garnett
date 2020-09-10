@@ -15,7 +15,7 @@ footer{
 	margin-top: 3em;
 }
 
-.signature{
+[epub:type~="z3998:signature"]{
 	font-variant: small-caps;
 }
 
