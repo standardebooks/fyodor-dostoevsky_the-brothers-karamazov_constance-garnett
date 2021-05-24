@@ -15,7 +15,7 @@ header p + p{
 	text-indent: 0;
 }
 
-[epub|type~="subchapter"]{
+[epub|type~="z3998:subchapter"]{
 	margin-top: 3em;
 }
 
