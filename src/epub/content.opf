@@ -43,6 +43,8 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2007101952</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A dispute over inheritance between father and son escalates into a family feud.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Dmitri Karamazov and his father Fyodor are at war over both Dmitri’s inheritance and the affections of the beautiful Grushenka. Into this feud arrive the middle brother Ivan, recently returned from Moscow, and the youngest sibling Alyosha, who has been released into the wider world from the local monastery by the elder monk Zossima. Through a series of accidents of fate and wilful misunderstandings the Karamazovs edge closer to tragedy, while the local townspeople watch on.&lt;/p&gt;
