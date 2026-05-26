@@ -47,6 +47,9 @@
 		<meta id="collection-2" property="belongs-to-collection">The Guardian’s 100 Best Novels of All Time (2026)</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">28</meta>
+		<meta id="collection-3" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
+		<meta property="collection-type" refines="#collection-3">set</meta>
+		<meta property="group-position" refines="#collection-3">29</meta>
 		<dc:description id="description">A dispute over inheritance between father and son escalates into a family feud.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Dmitri Karamazov and his father Fyodor are at war over both Dmitri’s inheritance and the affections of the beautiful Grushenka. Into this feud arrive the middle brother Ivan, recently returned from Moscow, and the youngest sibling Alyosha, who has been released into the wider world from the local monastery by the elder monk Zossima. Through a series of accidents of fate and wilful misunderstandings the Karamazovs edge closer to tragedy, while the local townspeople watch on.&lt;/p&gt;
